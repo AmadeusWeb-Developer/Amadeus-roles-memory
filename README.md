@@ -1,0 +1,1 @@
+# Amadeus-roles-memory
