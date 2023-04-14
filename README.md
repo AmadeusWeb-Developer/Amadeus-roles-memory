@@ -3,8 +3,8 @@
 若想贡献新的角色设定，请按照如下格式在roles-memory.json中添加角色
 [
   {
-    "key":角色名,
-    "value":角色设定,
-    "avatarUrl":角色头像
+    "key":(角色名),
+    "value":(角色设定),
+    "avatarUrl":(角色头像Url)
 ]
 请新开分支另提PR
